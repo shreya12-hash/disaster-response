@@ -76,7 +76,7 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 <a name="authors"></a>
 ## Authors
 
-* [Shreya Biswas](https://github.com/matteobonanomi)
+* [Shreya Biswas](https://github.com/shreya12-hash)
 
 <a name="license"></a>
 ## License
